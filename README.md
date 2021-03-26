@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, Eugene here 👋
+I'm currently studying at [RS School](https://rs.school) [JS/Front-end](https://rs.school/js/) course  :neckbeard:  
+
+[Here](https://rolling-scopes-school.github.io/eugenemp-JSFE2021Q1) you can see my deployed tasks and projects
+
 
 <!--
 **eugenemp/eugenemp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
