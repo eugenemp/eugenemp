@@ -1,5 +1,4 @@
-### Hi there, Eugene here 👋
-I'm currently studying at [RS School](https://rs.school) [Node.JS](https://rs.school/nodejs/) course  :neckbeard:  
+### Hi there, Eugene here 👋 
 
 [Here](https://rolling-scopes-school.github.io/eugenemp-JSFE2021Q1) you can see some of my simple projects
 
