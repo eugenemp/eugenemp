@@ -1,6 +1,8 @@
 ### Hi there, Eugene here 👋 
 
-[Here](https://rolling-scopes-school.github.io/eugenemp-JSFE2021Q1) you can see some of my simple projects
+[Here](https://rolling-scopes-school.github.io/eugenemp-JSFE2021Q1) you can see some of my simple study projects
+
+Visit [this page](https://github.com/eugenemp-templates) to see my custom project templates
 
 
 <!--
