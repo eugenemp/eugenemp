@@ -2,7 +2,7 @@
 
 [Here](https://rolling-scopes-school.github.io/eugenemp-JSFE2021Q1) you can see some of my simple study projects
 
-On [this page](https://github.com/eugenemp-templates) you can find my custom project templates
+<!-- On [this page](https://github.com/eugenemp-templates) you can find my custom project templates -->
 
 
 <!--
