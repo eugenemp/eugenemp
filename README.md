@@ -1,4 +1,4 @@
-### Hi there, Eugene here 👋 
+<!-- ### Hi there, Eugene here 👋 -->
 
 <!-- [Here](https://rolling-scopes-school.github.io/eugenemp-JSFE2021Q1) you can see some of my simple study projects -->
 
